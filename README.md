@@ -24,7 +24,7 @@
 
 ```bash
 # 💾 Clone this repo
-git clone https://github.com/yourusername/infixToPostfix.git
+git clone https://github.com/nisuhR31/infixToPostfix.git
 cd infixTpPostfix
 
 # 🏃 Run it
